@@ -1,0 +1,29 @@
+.main{
+    position: fixed;
+    display: flex;
+   
+}
+
+.div{
+  justify-content: center;
+    display: flex;
+    margin: 10px;
+    
+}
+.txt{ justify-content: center;
+    display: flex;
+  color: black;
+    margin: 10px;
+}
+.txt:hover{ 
+    color: gray;
+}
+.button{ justify-content: center;
+    display: flex;
+    background-color: whitesmoke;
+    
+}
+.button:hover{
+    background-color: skyblue;
+    margin: 10px;
+}
